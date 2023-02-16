@@ -1,0 +1,3 @@
+#!/bin/bash
+-type d -path './*' -print | wc -l 
+
